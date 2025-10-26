@@ -104,7 +104,7 @@ Each mode implements its own logic for timing, sequence generation, scoring, and
 
 This project is a multi-modal interactive system designed for cognitive and reflex training, with integrated physiological data monitoring.
 
-![design](./media/summary.jpg)
+![design](./media/summary.png)
 
 ## Game Modes
 
@@ -165,7 +165,7 @@ All core components and system integrations have been rigorously tested.
 ---
 
 
-## 👥 Authors & Contributors
+## Authors & Contributors
 
 | Name | Role & Contributions |
 |------|----------------------|
