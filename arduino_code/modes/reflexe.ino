@@ -5,7 +5,7 @@ long randNumber;
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
 #include <DFRobotDFPlayerMini.h>
-#include <PulseSensorPlayground.h>     // Inclut la bibliothèque PulseSensorPlayground.  
+#include <PulseSensorPlayground.h>     // Inclut bibliothèque PulseSensorPlayground.  
 
 // Variables
 const int PulseWire = 0;       // Fil VIOLET du capteur de pouls connecté à la BROCHE ANALOGIQUE 0
