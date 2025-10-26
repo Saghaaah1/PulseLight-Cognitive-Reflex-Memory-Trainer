@@ -2,9 +2,6 @@
 #include <LiquidCrystal_I2C.h>
 #include <Adafruit_NeoPixel.h>
 
-
-
-
 // Configuration des broches et constantes
 #define PIXEL_PIN 5
 #define PIXEL_COUNT 8
@@ -22,7 +19,7 @@ enum GameMode { IDLE, REFLEXE, MEMOIRE, PRECISION };
 GameMode currentMode = IDLE;
 GameMode requestedMode = IDLE;
 // Ajoutez ces variables globales
-float tempsEssais[10]; // Pour stocker les temps de chaque essai
+float tempsEssais[10]; // Pour stocker les temps de chaque essaie
 
 
 
