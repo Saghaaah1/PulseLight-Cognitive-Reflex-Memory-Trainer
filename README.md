@@ -184,7 +184,6 @@ You are free to reuse, modify, and distribute it for educational or research pur
 
 ---
 
-## Acknowledgments
-
+## Acknowledgments:
 Developed as part of an engineering project on human-machine interaction and medical rehabilitation.  
 Special thanks to our professors, mentors, and lab staff for their invaluable guidance and feedback.
