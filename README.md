@@ -81,13 +81,17 @@ PulseLight integrates **hardware**, **firmware**, and **software** into a single
 The firmware is modular for clarity and scalability:
 
 arduino_code/
-│
+
 ├── main/
+
 │ └── PulseLight.ino # Main control logic
-│
+
 ├── modes/
+
 │ ├── memoire.ino # Memory mode
+
 │ ├── reflexe.ino # Reflex mode
+
 │ └── precision.ino # Precision mode
 
 
